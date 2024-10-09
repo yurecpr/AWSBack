@@ -16,9 +16,9 @@
 	<name>DiaHelper Project</name>
 	<description>Diabetes helper</description>
 
-	<properties>
-		<java.version>22</java.version>
-	</properties>
+<!--	<properties>-->
+<!--		<java.version>22</java.version>-->
+<!--	</properties>-->
 
     <dependencies>
 
